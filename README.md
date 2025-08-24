@@ -18,4 +18,5 @@ This project focuses on forecasting sales data using historical records to build
 
 ## Author
 Hamza Almughrabi  
-[My LinkedIn Profile Link]
+[My LinkedIn Profile]([My LinkedIn Profile](https://www.linkedin.com/in/yourprofile/)
+
